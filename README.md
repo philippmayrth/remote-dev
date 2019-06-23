@@ -9,7 +9,7 @@ This project is indended to provide you with a rudimentary development environme
 
 ## Goals
 ### Goals of this project
-- See if its viable to develop only with an iPad connected via SSH or Mosh to a remote server (hosting this Docker immage)
+- See if its viable to develop only with an iPad connected via SSH or Mosh to a remote server (hosting this Docker image)
 - Try to find a somewhat semi effective workflolw
 
 ### Non goals
