@@ -1,3 +1,7 @@
+<img src="https://img.shields.io/docker/cloud/build/philippmayrth/remote-dev.svg?style=popout-square" >
+<img src="https://img.shields.io/docker/pulls/philippmayrth/remote-dev.svg?style=popout-square" >
+<img src="https://img.shields.io/docker/stars/philippmayrth/remote-dev.svg?style=popout-square" >
+
 # Intro
 
 This project is indended to provide you with a rudimentary development environment for web projects. It will enable you to write certain kinds of software with only an iPad or iPhone _(Id prefer an iPad esspecialy with screensize and such..)_.
