@@ -22,7 +22,7 @@ RUN apt-get update && apt-get install -y \
 	mariadb-server
 
 # https://www.mycli.net - A mysql client with autocomoplete
-RUN pip install install mycli
+RUN pip install mycli
 
 RUN mkdir -p /data/db/mariadb
 RUN mkdir -p /workdir
