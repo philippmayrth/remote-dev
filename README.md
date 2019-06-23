@@ -16,3 +16,8 @@ This project is indended to provide you with a rudimentary development environme
 - Provide anything more than rudimentary PHP
 - Support of Python2.X (Its installed but only to install stuff that depends on it not for development)
 
+# Install
+
+`docker pull philippmayrth/remote-dev`
+
+TODO: Add some more installation instructions
